@@ -1,0 +1,9 @@
+    <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+            <div class="card text-center mb-3" style="width: 18rem;" id="card-name">
+              <div class="card-body">
+                <h5 class="card-title"><img src="..." width="100%" alt="..."></h5>
+                <p class="card-text"><h5>...</h5></p></br>
+                <a href="#" class="btn  text-bg-dark">Tôi Muốn Xem</a>
+              </div>
+            </div>
+          </div>
